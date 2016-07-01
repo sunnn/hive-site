@@ -1,0 +1,9 @@
+P001,IN_101,F51.04,Psychophysiologicinsomnia,Male,White,Married,English,14.63,CBC:HEMATOCRIT,40.7,%
+P002,IN_102,R93.1,Abnormalfindingsondiagnosticimagingofheartandcoronarycirculation,Male,White,Married,Spanish,13.33,CBC:BASOPHILS,0.2,k/cumm
+P003,IN_103,R93.1,Abnormalfindingsondiagnosticimagingofheartandcoronarycirculation,Male,Unknown,Married,English,14.86,METABOLIC:CARBONDIOXIDE,30.7,mmol/L
+P004,IN_104,I67.81,Acutecerebrovascularinsufficiency,Female,White,Single,Spanish,10.77,URINALYSIS:REDBLOODCELLS,1.4,rbc/hpf
+P005,IN_105,F51.04,Psychophysiologicinsomnia,Female,White,Single,English,12.51,CBC:MCHC,37.8,g/dl
+P006,IN_106,R94.2,Abnormalresultsofpulmonaryfunctionstudies,Female,White,Divorced,English,12.06,METABOLIC:BUN,21.6,mg/dL
+P007,IN_107,R93.1,Abnormalfindingsondiagnosticimagingofheartandcoronarycirculation,Male,AfricanAmerican,Divorced,English,93.29,CBC:MEANCORPUSCULARVOLUME,92.6,fl
+P008,IN_108,E10,Type1diabetesmellitus,Male,Asian,Married,English,15.89,URINALYSIS:REDBLOODCELLS,2.3,rbc/hpf
+P009,IN_109,J20.4,Acutebronchitisduetoparainfluenzavirus,Male,White,Married,English,11.96,CBC:WHITEBLOODCELLCOUNT,11.6,k/cumm
