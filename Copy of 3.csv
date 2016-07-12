@@ -1,0 +1,14 @@
+patient id,Gender,Occupation,DOB,Ethinicity,Status,Language,Drug Allergies,Propensity Score,Average,V
+P001,Male,Teacher,11/18/1954,White,Married,English,Amoxicillin,9.3,Very High Risk,2
+P002,Female,Homemaker,9/8/1967,Asian,Married,Spanish,Penicillin,4.8,Normal Risk Risk,2
+P003,Male,Lawyer,12/17/1973,African American,Single,Spanish,None,7.6,High Risk,2
+,,,,,,,,1.2,Very Low Risk,2
+,,,,,,,,3.5,Low Risk,2
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
