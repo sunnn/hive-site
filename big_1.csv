@@ -1,0 +1,6 @@
+PatientID,AdmissionID,PrimaryDiagnosisCode,PatientGender,PatientRace,PatientMaritalStatus,PatientLanguage,PatientPopulationPercentageBelowPoverty,LabName,LabValue,LabUnits
+P004,IN_104,I67.81,Female,White,Single,Spanish,10.77,URINALYSIS:REDBLOODCELLS,1.4,rbc/hpf
+P005,IN_105,F51.04,Female,White,Single,English,12.51,CBC:MCHC,37.8,g/dl
+P006,IN_106,R94.2,Female,White,Divorced,English,12.06,METABOLIC:BUN,21.6,mg/dL
+P007,IN_107,R93.1,Male,AfricanAmerican,Divorced,English,93.29,CBC:MEANCORPUSCULARVOLUME,92.6,fl
+P008,IN_108,E10,Male,Asian,Married,English,15.89,URINALYSIS:REDBLOODCELLS,2.3,rbc/hpf
